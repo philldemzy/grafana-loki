@@ -20,4 +20,4 @@ Restart the alloy service after making changes
 
 
 #### LOGQL
-link to logql tutorials https://sbcode.net/grafana/logql/
+[link to logql tutorials](https://sbcode.net/grafana/logql/)
