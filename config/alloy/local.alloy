@@ -1,5 +1,5 @@
 local.file_match "local" {
- path_targets = [{"__path__" = "/var/log/nginx/*.log"},{"__path__"="/app/ubaapi/logs/UBAAPI.log"}] 
+ path_targets = [{"__path__" = "/var/log/nginx/*.log"},{"__path__"="/app/###api/logs/###API.log"}] 
  sync_period = "10s"
 }
 
